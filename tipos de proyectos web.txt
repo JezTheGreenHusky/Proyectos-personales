@@ -1,0 +1,6 @@
+
+	1. Store: Sitio web enfocado en promocionar productos con la finalidad de vender
+	2. portfolio: pagina o sitio web enfocado en mostrar porductos con la finalidad de demostrar habilidades y competencias.
+	3. Youtuber: Pagina o sitio web enfocado en mostrar y promocionar el contenido de un canal de youtube.
+	4. Blog: sitio web enfocado en publicar contenido
+	5. App: Pagina web enfocada en una funcionalidad especifica. resuelve una problematica en particular
